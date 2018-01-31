@@ -1,4 +1,4 @@
 # hello-world
 demo repository
 
-Git tutorial going on. Success till now
+Github repository making, branching and branch merging done.
